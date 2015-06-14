@@ -1,0 +1,80 @@
+%pesto-1
+
++175 g Mehl
++100 g Butter
++Salz
++1 _ Ei
+[verkneten]
+
+&Kühlschrank
+&30 min
+[durchkühlen]
+>Teig
+
+&Springform
++Butter
+[einfetten]
+
+*Teig
+[auslegen]
+[Rand hochziehen]
+
+&Gabel
+[Boden einstechen]
+
+&Backofen (200 C)
+&15 min
+[vorbacken]
+>Teigboden
+
++300 g Broccoli
++400 g Möhren
+[putzen] [waschen] [in Röschen/Scheiben zerteilen]
+>Gemüse
+
++1 _ Zwiebel (klein)
++1 _ Knoblauchzehe
+[abziehen]
+[fein hacken]
+
+*Gemüse
++Fett
+&Topf
+[andünsten]
+
++150 g Erbsen (tiefgefroren)
+[zufügen]
+[würzen]
+
+&5 min
+[garen]
+
+[herausnehmen]
+*Teigboden
+[verteilen]
+>foo
+
++200 g Schlagsahne
++1 _ Ei
++Muskat
++Salz
++einige Tropfen Tabasko
+[verrühren]
+
+*foo
+[übergießen]
+>bar
+
++50 g Gouda (mittelalt)
+[reiben]
+
+*bar
+[darüberstreuen]
+
+&Backofen (200 C)
+&20 min
+[backen]
+
+>"Gemüse-Pie"
+(.yield: 4 _ Portionen)
+

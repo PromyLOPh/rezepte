@@ -1,0 +1,43 @@
+%pesto-1
+
++1 _ Zwiebel
+[würfeln]
+
++40 g Butter
+&Topf
+[dünsten]
+
++750 ml Wasser
+[aufgießen]
+
++Gemüsebrühe
+[würzen]
+
++300 g Erbsen
+[gar kochen]
+>Suppe
+
++30 g Butter
++250 ml Milch
+[aufkochen]
+
++125 g Mehl
++Salz
++Muskat
+[verrühren]
+[abkühlen lassen]
+
++2 _ Eier
+[verrühren]
+>Teig
+
+*Teig
+[Nocken abstechen]
+[in die Suppe gleiten lassen]
+
+&10 min
+[ziehen lassen]
+
+>"Erbsensuppe mit Schwämmchen"
+(.yield: 4 _ Personen)
+

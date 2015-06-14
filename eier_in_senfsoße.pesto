@@ -1,0 +1,54 @@
+%pesto-1
+
+&Topf
++Wasser
+[kochen]
+>"Kochendes Wasser"
+
++2 _ Eier
+[am dicken Ende anstechen]
+>bar
+
+*"Kochendes Wasser"
+*bar
+&10 min
+[kochen]
+
+&Wasser (kalt)
+[abschrecken]
+[pellen]
+[halbieren]
+>"Gekochte Eier"
+
++15 g Butter
+&Topf
+[zerlassen]
+
++10 g Weizenmehl
+[unter Rühren erhitzen, bis es hellgelb ist]
+
++100 ml Gemüsebrühe
+[nach und nach hinzugeben]
+[aufkochen]
+
+&10 min
+[bei schwacher Hitze kochen, gelegentlich umrühren]
+
++1/2 EL Senf (mittelscharf)
++1/2 EL Senf (körnig)
+[unterrühren]
+
++Salz
++Pfeffer
+[abschmecken]
+
++1 EL "Crème fraiche"
+[unterrühren]
+
+*"Gekochte Eier"
+[dazugeben]
+
+>"Eier in Senfsoße"
+(.yield: 1 _ Portion)
+(.time: 20 min)
+
