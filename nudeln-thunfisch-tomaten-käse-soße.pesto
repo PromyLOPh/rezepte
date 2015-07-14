@@ -1,0 +1,40 @@
+%pesto
+
++6 _ Tomaten (klein)
+[kleinschneiden]
+>Tomaten
+
++1 Zehe Knoblauch
+[zerkleinern]
+>Knoblauch
+
++1 _ Zwiebel
+&Topf
+[anbraten]
+
+*Tomaten
+*Knoblauch
++100 ml Gemüsebrühe
+&5 min
+[kochen]
+
++1 Dose Thunfisch
+&2 min
+[erwärmen]
+
++4 EL Schmelzkäse
++2 EL "Saure Sahne"
++Salz
++Pfeffer
+[abschmecken]
+>Soße
+
++200 g Spiralnudeln
+[nach Packungsanweisung kochen]
+*Soße
+[servieren]
+
+>"Nudeln in Thunfisch-Tomaten-Käse-Soße"
+(yield: 3 _ Portionen)
+(language: de)
+

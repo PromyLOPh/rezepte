@@ -1,0 +1,48 @@
+%pesto
+
++500 g Tomaten
+[waschen]
+[in kleine Würfel schneiden]
+>Tomaten
+
++1 _ Zwiebel
+[fein schneiden]
+>Zwiebel
+
++Creme fraiche
++Cremefine
++Käse (gerieben)
+|Käse
+
+&Topf
++Olivenöl
+[erhitzen]
+*Zwiebel
+[anbraten]
+
++60 g Reis
+[untermischen]
+
+*Tomaten
++500 ml Gemüsebrühe
+[hinzugeben]
+[zum kochen bringen]
+
++Salz
++Pfeffer
++Tomatenmark
++Sambal Oelek
+[würzen]
+
+&30 min
+[köcheln]
+
++Petersilie
+[garnieren]
+*Käse
+[abschmecken]
+
+>"Tomatensuppe mit Reis"
+(.yield: 4 _ Teller)
+(.language: de)
+
