@@ -1,0 +1,47 @@
+%pesto
+
++1 Stange Porree
+[putzen]
+[längs halbieren]
+[waschen]
+>Porreestreifen
+
++1 _ Zwiebel
+[würfeln]
+>Zwiebelwürfel
+
++2 EL Pflanzenöl
+&Topf
+[erhitzen]
+
+*Zwiebelwürfel
+[andünsten]
+
++200 g Rinderhack
+[anbraten]
+
++Salz
++Pfeffer
+[würzen]
+
+*Porreestreifen
+[mitdünsten]
+
++500 ml Fleischbrühe
+&15-20 min
+[zugedeckt garen]
+
++1 Glas Champignonscheiben
+[hinzugeben]
+
++125 g Sahneschmelzkäse
+[unterrühren]
+
++Salz
++Pfeffer
+[abschmecken]
+
+>3 Teller Porree-Käse-Suppe
+(language: de)
+(time: 35 min)
+
