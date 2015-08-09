@@ -18,9 +18,7 @@
 
 &Backofen (vorgeheizt auf 200 °C) &10 min [backen]
 
->"Spaghetti Alfredo"
-(.author: ?)
-(.yield: 4 _ Personen)
-(.time: 20 min)
-(.language: de)
+>4 Portionen "Spaghetti Alfredo"
+(time: 20 min)
+(language: de)
 

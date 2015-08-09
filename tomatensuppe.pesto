@@ -42,7 +42,6 @@
 *Käse
 [abschmecken]
 
->"Tomatensuppe mit Reis"
-(.yield: 4 _ Teller)
-(.language: de)
+>4 Teller "Tomatensuppe mit Reis"
+(language: de)
 

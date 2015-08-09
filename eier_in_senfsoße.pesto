@@ -48,7 +48,6 @@
 *"Gekochte Eier"
 [dazugeben]
 
->"Eier in Senfsoße"
-(.yield: 1 _ Portion)
-(.time: 20 min)
+>1 Portion "Eier in Senfsoße"
+(time: 20 min)
 

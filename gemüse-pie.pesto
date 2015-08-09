@@ -75,6 +75,6 @@
 &20 min
 [backen]
 
->"Gemüse-Pie"
-(.yield: 4 _ Portionen)
+>4 Portionen "Gemüse-Pie"
+(language: de)
 

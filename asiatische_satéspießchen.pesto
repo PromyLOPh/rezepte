@@ -33,8 +33,7 @@
 *Soße
 [servieren]
 
->"Asiatische Satéspießchen"
-(.time: 25 min)
-(.yield: 4 _ Portionen)
-(.language: de)
+>4 Portionen "Asiatische Satéspießchen"
+(time: 25 min)
+(language: de)
 

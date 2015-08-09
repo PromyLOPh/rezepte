@@ -54,8 +54,7 @@
 [dazugeben]
 [abschmecken]
 
->"Schneller Kartoffelsalat"
-(.yield: 4 _ Portionen)
-(.time: 30 min)
-(.language: de)
+>4 Portionen "Schneller Kartoffelsalat"
+(time: 30 min)
+(language: de)
 
