@@ -1,44 +1,39 @@
+Variante Butter/Mehl:
+20/75: „mehlig“?
+50/50: Teig sehr flüssig, Nocken halten aber, sehr fettig
+10/50: todo
+
 %pesto
 
 +1 _ Zwiebel
 [würfeln]
 
-+40 g Butter
++10 g Butter
 &Topf
 [dünsten]
 
-+750 ml Wasser
++500 ml Gemüsebrühe
 [aufgießen]
 
-+Gemüsebrühe
-[würzen]
-
 +300 g Erbsen
+&15-20 min
 [gar kochen]
 >Suppe
 
-+30 g Butter
-+250 ml Milch
-[aufkochen]
-
-+125 g Mehl
++2 _ Eier
++20 g Butter
++75 g Mehl
 +Salz
 +Muskat
 [verrühren]
-[abkühlen lassen]
 
-+2 _ Eier
-[verrühren]
->Teig
-
-*Teig
 [Nocken abstechen]
 
 *Suppe
 [in die Suppe gleiten lassen]
 
-&10 min
+&5 min
 [ziehen lassen]
 
->4 Portionen "Erbsensuppe mit Schwämmchen"
+>2 Portionen "Erbsensuppe mit Schwämmchen"
 

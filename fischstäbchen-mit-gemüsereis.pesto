@@ -1,0 +1,41 @@
+%pesto
+
++60 g Reis
++160 ml Wasser
+&12 min
+[kochen]
+>Reis
+
++X g Erbsen
++X g Möhren
++Gemüsebrühe
+&7 min
+[kochen]
+>Gemüse
+
++Fett
+[erhitzen]
++Mehl
+[hinzugeben]
++Gemüsebrühe
+[vorsichtig unterrühren]
++Dill
++Pfeffer
+[würzen]
+>Soße
+
+*Gemüse
+*Reis
+*Soße
+[mischen]
+>Gemüsereis
+
++5 _ Fischstäbchen
++Fett
+[anbraten]
+*Gemüsereis
+[servieren]
+
+>1 Portion "Fischstäbchen mit Gemüsereis"
+(language: de)
+
