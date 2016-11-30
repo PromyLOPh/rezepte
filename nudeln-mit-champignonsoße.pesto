@@ -1,0 +1,38 @@
+%pesto
+
++75 g Nudeln
+[kochen]
+>Nudeln
+
++x g Bacon
+[in feine Streifen schneiden]
+>Baconstreifen
+
++5 _ Champignons
+[waschen]
+[in Scheiben schneiden]
+>Champignongscheiben
+
++150 ml Gemüsebrühe
++2 TL Mehl
+>Soße
+
++1 _ Zwiebel
+[würfeln]
+&Pfanne
+*Baconstreifen
+[anbraten]
+
+*Champignongscheiben
+[dünsten]
+
+*Soße
++Salbei (gerebelt?)
++Pfeffer
+[würzen]
+[aufkochen]
+
+*Nudeln
+>1 Portion "Nudeln in Champignonsoße"
+(language: de)
+

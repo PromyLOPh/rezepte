@@ -1,7 +1,10 @@
 %pesto
 
-+175 g Mehl (130g?)
-+100 g Butter (35g?)
++35 g Butter
+[zerlassen]
+[abkühlen]
+
++100 g Mehl
 +Salz
 +1 _ Ei
 [verkneten]
@@ -22,13 +25,13 @@
 &Gabel
 [Boden einstechen]
 
-&Backofen (200 C)
+&Backofen (200 °C)
 &15 min
 [vorbacken]
 >Teigboden
 
-+300 g Broccoli
-+400 g Möhren
++Broccoli
++Möhren
 [putzen] [waschen] [in Röschen/Scheiben zerteilen]
 >Gemüse
 
@@ -42,8 +45,10 @@
 &Topf
 [andünsten]
 
-+150 g Erbsen (tiefgefroren)
++Erbsen (tiefgefroren)
 [zufügen]
++Salz
++Pfeffer
 [würzen]
 
 &5 min
@@ -54,7 +59,7 @@
 [verteilen]
 >foo
 
-+200 g Schlagsahne
++100 g Schlagsahne
 +1 _ Ei
 +Muskat
 +Salz
@@ -75,6 +80,6 @@
 &20 min
 [backen]
 
->4 Portionen "Gemüse-Pie" (1.5?)
+>1 Portion Gemüse-Pie
 (language: de)
 

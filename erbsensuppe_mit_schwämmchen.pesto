@@ -1,8 +1,3 @@
-Variante Butter/Mehl:
-20/75: „mehlig“?
-50/50: Teig sehr flüssig, Nocken halten aber, sehr fettig
-10/50: todo
-
 %pesto
 
 +1 _ Zwiebel
@@ -21,8 +16,10 @@ Variante Butter/Mehl:
 >Suppe
 
 +2 _ Eier
-+20 g Butter
-+75 g Mehl
+[verquirlen]
++30 g Butter
+[unterrühren]
++60 g Mehl
 +Salz
 +Muskat
 [verrühren]
@@ -32,8 +29,8 @@ Variante Butter/Mehl:
 *Suppe
 [in die Suppe gleiten lassen]
 
-&5 min
+&10 min
 [ziehen lassen]
 
->2 Portionen "Erbsensuppe mit Schwämmchen"
+>4 Teller "Erbsensuppe mit Schwämmchen"
 

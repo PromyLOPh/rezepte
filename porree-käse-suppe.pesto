@@ -1,3 +1,5 @@
+Mehr Sahneschmelzkäse? Hatte 100g -> 200g?
+
 %pesto
 
 +1 Stange Porree
@@ -6,7 +8,12 @@
 [waschen]
 >Porreestreifen
 
-+1 _ Zwiebel
++250 g Champignons
+[waschen]
+[in Streifen schneiden]
+>Champignonscheiben
+
++2 _ Scharlotten
 [würfeln]
 >Zwiebelwürfel
 
@@ -25,14 +32,12 @@
 [würzen]
 
 *Porreestreifen
+*Champignonscheiben
 [mitdünsten]
 
 +500 ml Fleischbrühe
-&15-20 min
+&10-15 min
 [zugedeckt garen]
-
-+1 Glas Champignonscheiben
-[hinzugeben]
 
 +125 g Sahneschmelzkäse
 [unterrühren]
@@ -41,7 +46,7 @@
 +Pfeffer
 [abschmecken]
 
->3 Teller Porree-Käse-Suppe
+>4 Teller Porree-Käse-Suppe
 (language: de)
 (time: 35 min)
 

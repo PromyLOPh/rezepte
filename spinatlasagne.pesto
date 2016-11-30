@@ -22,11 +22,11 @@
 [fetten]
 >Form
 
-+etwas _ Butter
++15 g Butter
 &Topf
 [zerlassen]
 
-+etwas _ Mehl
++2 TL Mehl (gestrichen)
 [erhitzen, bis es hellgelb ist]
 
 +100 ml Milch
@@ -51,4 +51,5 @@
 &Backofen (200C Ober-/Unterhitze, 180C Heißluft)
 &35 min
 [backen]
+>1 Portion Spinatlasagne
 
