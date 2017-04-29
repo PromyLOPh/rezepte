@@ -1,10 +1,15 @@
 %pesto
 
++30 g Butter
+&Topf
+[zerlassen]
+>Fett
+>"Gefetteter Topf"
+
 +1 _ Zwiebel
 [würfeln]
 
-+10 g Butter
-&Topf
+*"gefetteter Topf"
 [dünsten]
 
 +500 ml Gemüsebrühe
@@ -16,14 +21,12 @@
 >Suppe
 
 +2 _ Eier
-[verquirlen]
-+30 g Butter
-[unterrühren]
-+60 g Mehl
+*Fett
 +Salz
 +Muskat
-[verrühren]
-
+[verquirlen]
++60 g Mehl
+[langsam unterrühren]
 [Nocken abstechen]
 
 *Suppe

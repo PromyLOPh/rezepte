@@ -1,27 +1,37 @@
 %pesto
 
 +2 _ Eier
-[verquirlen]
+[trennen]
+>Eiweiß
+>Eigelb
 
+*Eiweiß
+[schlagen]
+>Eischnee
+
+*Eigelb
 +2 EL Gemüsebrühe
 +1 EL "Creme fraiche"
 +Dill
 +Pfeffer
-[unterrühren]
+[verquirlen]
 
 +50 g Mehl
-[verrühren]
+[unterrühren]
 
 &15 min
 [quellen lassen]
 
+*Eischnee
+[unterheben]
+
 &Pfanne
 +Butterschmalz
-+100 g Lachs
 [hellgelb backen]
 [in kleine Stücke reißen]
 
 +Sahne-Meerrettich
++100 g Lachs
 [servieren]
 
 >1 Portion "Pikanter Kaiserschmarren"

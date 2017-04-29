@@ -1,0 +1,41 @@
+%pesto
+
++1 _ Zwiebel
+[würfeln]
+>Zwiebel
+
++300 ml Gemüsebrühe
+&Topf
+[erhitzen]
+
++200 g Couscous
+[quellen lassen]
+[auflockern]
+
++Zwiebel
++50 g Rosinen
++Petersilie
++2 EL Zitronensaft
++Salz
++Pfeffer
+[würzen]
+>Couscous
+
++Olivenöl
+&Pfanne
+[erhitzen]
+
++Schrimps
++1 TL Kreuzkümmel
++1 _ Knoblauchzehe
+[scharf anbraten]
+
++200 g Erbsen
+[erhitzen]
+
++Salz
+*Couscous
+
+>2 Portionen "Couscous-Salat"
+(language: de)
+

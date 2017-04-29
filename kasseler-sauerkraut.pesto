@@ -1,0 +1,45 @@
+%pesto
+
++1 Scheibe Kasseler
++Pfeffer
+&Pfanne
+&Öl
+[anbraten]
+>Fleisch
+>Bratfett
+
+*Bratfett
+&Pfanne
+&Buffer
+[schmelzen]
+
++1 _ Zwiebel
+[glasig dünsten]
+
++etwas _ Puderzucker
+[bestäuben]
+[karamellisieren]
+
++125 g Sauerkraut
++1 _ Lorbeerblatt
++Paprikapulver
++100 ml Gemüsebrühe
+[ablöschen]
+
++Salz
++Pfeffer
+[würzen]
+
+*Fleisch
+[oben drauf legen]
+
+&30-40 min
+[bei milder Hitze garen]
+
+*Kartoffelpüree
+[servieren]
+
+>1 Portion "Kasseler mit Sauerkraut"
+(language: de)
+(author: http://www.essen-und-trinken.de/rezept/9331/kasseler-mit-sauerkraut.html)
+
