@@ -1,0 +1,38 @@
+%pesto
+
++2 _ Eier
+[hart kochen]
+[schälen]
+[würfeln]
+>Eierwürfel
+
++Serranoschinken
+[klein schneiden]
+>Schinkenwürfel
+
++1 _ Zwiebel
++1 Zehe Knoblauch
++Öl
+&Topf
+[andünsten]
+
++1 l Gemüsebrühe
++100 g Nudeln
++400 g Möhren
+&8 min
+[garen]
+
+*Schinkenwürfel
+*Eierwürfel
++Schnittlauch
+[dazugeben]
+
++Salz
++Pfeffer
++Muskatnuss
+[würzen]
+
+>2 Portionen "Nudelsuppe mit Ei"
+(author: https://www.essen-und-trinken.de/rezepte/84465-rzpt-nudelsuppe)
+(language: de)
+

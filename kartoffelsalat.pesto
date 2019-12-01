@@ -1,34 +1,45 @@
+Kartoffeln machen wie schnellen Kartoffelsalat, Brühe
+
 %pesto
+
++Gurken
+[würfeln]
+>Gurkenwürfel
+
++Kartoffeln
+[in Scheiben schneiden]
+>Kartoffelscheiben
 
 +1 _ Zwiebel
 [würfeln]
 &Topf
 [dünsten]
+*Kartoffelscheiben
+[kurz mitdünsten]
 +125 ml Gemüsebrühe
-[erhitzen]
-[vom Herd nehmen]
+[ablöschen]
+>"gekochte Kartoffeln"
+>Brühe
+
 +2 EL Weißweinessig
 +Salz
 +Pfeffer
 +Zucker
-+Senf
-[kräftig würzen]
->Brühe
++2 EL Senf
+[mischen]
++2 EL Öl
+[verrühren]
+*etwas _ Brühe
+[mischen]
 
-+500 g Kartoffeln
-&25 min
-[kochen]
-[pellen]
-[in Scheiben schneiden]
-&Schüssel
-*Brühe
-[übergießen]
+*"gekochte Kartoffeln"
+*Gurkenwürfel
+[unterheben]
++Petersilie
++Salz
+[würzen]
 &30 min
 [ziehen lassen]
-
-+2 EL Öl
-+Petersilie
-[untermischen]
 
 >2 Portionen Kartoffelsalat
 (author: https://www.essen-und-trinken.de/rezepte/61928-rzpt-kartoffelsalat)
