@@ -1,11 +1,17 @@
 %pesto
 
++500 g Kartoffeln
+[würfeln]
+>Kartoffeln
+
 +1 _ Knollensellerie
 +3 _ Möhren
-+1 Stange Porree
-+4 _ Kartoffeln
 [klein schneiden]
 >Gemüse
+
++1 Stange Porree
+[klein schneiden]
+>Porree
 
 +100 g Tellerlinsen (gelb oder rot)
 &Sieb
@@ -14,16 +20,20 @@
 
 &Topf
 +Öl
-[erhitzen]
-
-*Gemüse
+*Kartoffeln
+&3 min
 [andünsten]
 
-+500 ml Gemüsebrühe
+*Gemüse
+&1 l Wasser
+&5 min
+[kochen]
+
 *Linsen
+*Porree
 [hinzugeben]
 
-&15 min
+&10 min
 [mit Deckel bei mittlerer Hitze kochen]
 
 +3 _ Rauchenden (Mettwürstchen)
@@ -32,7 +42,7 @@
 &5-10 min
 [kochen]
 
-+1/2 EL Essig
++1 EL Essig
 +Salz
 +Pfeffer
 [abschmecken]

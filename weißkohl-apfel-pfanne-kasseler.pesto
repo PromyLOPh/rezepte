@@ -1,0 +1,48 @@
+%pesto
+
++1/4 _ Weißkohl
+[in feine Streifen schneiden]
+>Kohl
+
++1 _ Zwiebel
+[in Scheiben schneiden]
+>Zwiebel
+
++100 g Kasseler
+[grob würfeln]
+>Kasseler
+
++1 _ Apfel
+[in schmale Spalten schneiden]
+>Apfel
+
+&Pfanne
+*Kasseler
++Butterschmalz
+[anbraten]
+
+*Äpfel
+[kurz anbraten]
+>Apfelkasseler
+
+&Pfanne
++Butterschmalz
+*Kohl
+[scharf anbraten]
+
+*Zwiebel
+&10 min
+[weich garen]
+
+*Apfelkasseler
+[aufwärmen]
+
++100 g Schmand
++Salz
++Pfeffer
++Majoran
+[würzen]
+
+>1 Teller "Weißkohl-Apfel-Pfanne mit Kasseler"
+(author: https://www.essen-und-trinken.de/rezepte/90627-rzpt-weisskohl-apfel-pfanne-mit-kasseler)
+
